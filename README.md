@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Md. Naimur Rahman</h1>
-<h3 align="center">A Passionate Software Developer| AI & Web Enthusiast From Bangladesh</h3>
+<h1>Hi 👋, I'm Md. Naimur Rahman</h1>
+<h3>A Passionate Software Developer| AI & Web Enthusiast From Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimurrahmandurjoy&label=Profile%20views&color=0e75b6&style=flat" alt="naimurrahmandurjoy" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Innovation And Information System LTD**
 
-- 🌱 I’m currently learning **Laravel ,JavaScript**
+- 🌱 I’m currently learning **Laravel & JavaScript**
 
 - 📫 How to reach me **naimurrahman9030@gmail.com**
 
