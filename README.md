@@ -1,16 +1,16 @@
-👋 Hi, I'm [Your Name]!
-🚀 Aspiring Software Engineer | AI & Web Enthusiast
+## Hi 👋, I'm Md.Naimur Rahman
 
-🎓 Graduate in Computer Science & Engineering from Daffodil International University.
-💡 Passionate about Machine Learning, Computer Vision, and Web Development.
-📊 Conducted a Comparative Study of CNN Models for Monkey Species Identification, achieving 89.98% accuracy with DenseNet201.
-💻 Skilled in Python, Laravel, Bootstrap, Flask API, and AI Model Deployment.
-🔗 Experienced in Zoom API integration and developing web-based AI solutions.
+<!--
+**NaimurRahmanDurjoy/NaimurRahmanDurjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-🎯 Career Objective:
-Seeking a position in the field of technology where I can apply my skills to drive innovation, contribute to impactful projects, and grow professionally within a forward-thinking organization. I strive to utilize my analytical skills and technical expertise to make meaningful contributions to the team’s success.
+Here are some ideas to get you started:
 
-📫 Let's connect:
-
-💼 LinkedIn
-🌐 Portfolio
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
