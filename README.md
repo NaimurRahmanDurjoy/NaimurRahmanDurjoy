@@ -98,21 +98,33 @@ I am a Software Engineer focused on building scalable, production-ready web appl
 ## 📌 Featured Projects
 
 ### 🍽️ Resdine POS (Production System)
-Full-stack restaurant POS system with payment gateway, inventory management, RBAC, and real-time order tracking.
+Production-ready restaurant POS and management platform designed to streamline restaurant operations. Features include inventory management, payment gateway integration, role-based access control (RBAC), real-time order tracking, and reporting dashboards.
+
+**Key Features**
+- Online Order System With Home Delivery
+- Restaurant Operation
+- Inventory Management
+- Payment Gateway Integration
+- RBAC System
+- Real-time Order Tracking
+- Sales & Revenue Reports
 
 **Tech:** Laravel • Vue.js • Inertia.js • Tailwind
+
+🔗 Live Demo: https://resdine.up.railway.app
+💻 Repository: https://github.com/NaimurRahmanDurjoy/resdine
 
 ---
 
 ### 📄 DFMS – Document & Finance System
-Digitized manual workflow for C&F company with document tracking, finance module, and audit-ready system.
+Enterprise document and finance workflow automation system developed for a C&F organization. The platform digitizes document tracking, financial operations, approval workflows, and reporting processes, reducing dependency on manual paperwork.
 
 **Tech:** Laravel • MySQL • Bootstrap
 
 ---
 
 ### 🍴 RecipeSys – Restaurant Management System
-Order management, kitchen workflow, menu system, and financial reporting platform.
+Comprehensive restaurant management solution featuring order processing, kitchen workflow management, menu administration, inventory tracking, and financial reporting to support day-to-day restaurant operations.
 
 **Tech:** Laravel • MySQL • JavaScript
 
