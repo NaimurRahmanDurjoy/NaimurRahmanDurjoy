@@ -6,7 +6,7 @@
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
-Laravel • Vue.js • React.js • Next.js • MySQL
+Laravel • Vue.js • React.js • MySQL • PostgreSQL
 </p>
 
 ---
